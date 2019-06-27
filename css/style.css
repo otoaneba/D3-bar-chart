@@ -1,0 +1,66 @@
+
+#main {
+    padding: 20px;
+}
+
+path.ras {
+
+	stroke: #fff;
+}
+
+rect.rect0 {
+
+	fill: #3399FF;
+}
+
+rect.rect1 {
+
+	fill: #FF8000;
+}
+
+rect.rect2 {
+
+	fill: #00cc00;
+}
+
+rect.rect3 {
+
+	fill: #CC0000;
+}
+
+rect.rect4 {
+
+	fill: #663300;
+}
+
+rect.rect5 {
+
+	fill: #cf0000;
+}
+
+rect.rect6 {
+
+	fill: #CC6600;
+}
+
+rect.rect7 {
+
+	fill: #999900;
+}
+
+text.axisLabel {
+	font-family: sans-serif;
+
+}
+
+text.chartLabel {
+	font-family: sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+
+}
+
+path.ras {
+	fill: #fff;
+}
+
